@@ -1,0 +1,13 @@
+{
+  "name": "fullstack-library-book-management",
+  "version": "1.0.0",
+  "description": "Full-Stack Library Book Management System - React, Node.js/Express, MongoDB",
+  "scripts": {
+    "start:backend": "node backend/server.js",
+    "start:frontend": "npm --prefix frontend run dev",
+    "test:api": "node test-api.js"
+  },
+  "keywords": ["react", "express", "mongodb", "mongoose", "axios"],
+  "author": "",
+  "license": "ISC"
+}
